@@ -9,7 +9,6 @@ import com.qualcomm.robotcore.hardware.Servo;
 public class DetectieFinal extends LinearOpMode {
     private Limelight3A limelightkjhkjhk;
     private Limelight3A masterasdas;
-    private Limelight3A stefa;
     private sistemeTeleOp s = new sistemeTeleOp();
     private p p = new p();
     private final double LIMELIGHT_HEIGHT = 31.5;
