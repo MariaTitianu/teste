@@ -7,7 +7,7 @@ import com.qualcomm.hardware.limelightvision.Limelight3A;
 import com.qualcomm.robotcore.hardware.Servo;
 @TeleOp(name = "IK Sample", group = "Vision")
 public class DetectieFinal extends LinearOpMode {
-    private Limelight3A limelightf;
+    private Limelight3A limelight;
     private sistemeTeleOp s = new sistemeTeleOp();
     private p p = new p();
     private final double LIMELIGHT_HEIGHT = 31.5;
